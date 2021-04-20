@@ -1,0 +1,39 @@
+#title {
+    text-align: center;
+}
+
+#subtitle {
+    text-align: center;
+}
+
+.about {
+    text-align: center;
+    border: 1px dotted #000;
+    padding: 8px;
+}
+
+.card-img-top {
+    max-width: 400px;
+    display: block;
+    margin: auto;
+}
+
+.card-tittle {
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+}
+
+#boton {
+    width: 100%;
+}
+
+.container {
+    background-color: #dd9b9b;
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+    text-align: center;
+}
